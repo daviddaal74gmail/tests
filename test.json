@@ -1,8 +1,10 @@
 [
+  {
   "elements":{
     "sandbox01.mdsol.com":"sandbox01.mdsol.com",
     "sandbox02.mdsol.com":"sandbox02.mdsol.com",
     "sandbox03.mdsol.com":"sandbox03.mdsol.com",
     "sandbox04.mdsol.com":"sandbox04.mdsol.com"
+  }
   }
 ]
